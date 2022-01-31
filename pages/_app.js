@@ -1,6 +1,6 @@
 import '../styles/globals.css'
 import Navigation from '../components/Navigation'
-function MyApp({ Component, pageProps }) {
+function Portfolio({ Component, pageProps }) {
   return (
     <>
     <script async defer src="https://tools.luckyorange.com/core/lo.js?site-id=605447fe"></script>
@@ -10,4 +10,4 @@ function MyApp({ Component, pageProps }) {
     )
 }
 
-export default MyApp
+export default Portfolio

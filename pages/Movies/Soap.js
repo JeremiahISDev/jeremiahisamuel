@@ -4,9 +4,6 @@ export default function Soap() {
     <>
     <Head>
     <title>Loading...</title>
-    <script defer>
-    window.open('https://soap2day.rs/','_self')
-    </script>
     </Head>
     
   </>

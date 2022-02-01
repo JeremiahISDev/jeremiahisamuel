@@ -4,9 +4,6 @@ export default function Stream() {
     <>
     <Head>
     <title>Loading...</title>
-    <script defer>
-    window.open('https://stream-planet.com','_self')
-    </script>
     </Head>
     
   </>

@@ -12,7 +12,7 @@ export default function StuntCars() {
       <div className="px-6 py-4">
         <div className="font-bold text-xl mb-2">Madalin Stunt Cars</div>
         <p className="text-white text-base">
-          Madalin Stunt Cars Multiplayer is a 3D stunt driving game featuring some of the world's most powerful cars. Jump behind the wheel of your favorite automobile and race around one of the three expansive maps. You can invite your friends to play in any of the online multiplayer servers to share the high-octane thrill.
+          Madalin Stunt Cars Multiplayer is a 3D stunt driving game featuring some of the worlds most powerful cars. Jump behind the wheel of your favorite automobile and race around one of the three expansive maps. You can invite your friends to play in any of the online multiplayer servers to share the high-octane thrill.
         </p>
       </div>
     </div>

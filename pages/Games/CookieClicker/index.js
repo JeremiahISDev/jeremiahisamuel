@@ -12,7 +12,7 @@ export default function CookieClicker() {
       <div className="px-6 py-4">
         <div className="font-bold text-xl mb-2">Cookie Clicker</div>
         <p className="text-white text-base">
-          Cookie Clicker is an incremental game created by French programmer Julien "Orteil" Thiennot in 2013. The user initially clicks on a big cookie on the screen, earning a single cookie per click. Though the game has no ending, it has hundreds of achievements, and users may aim to reach milestone numbers of cookies.
+          Cookie Clicker is an incremental game created by French programmer Julien Orteil Thiennot in 2013. The user initially clicks on a big cookie on the screen, earning a single cookie per click. Though the game has no ending, it has hundreds of achievements, and users may aim to reach milestone numbers of cookies.
         </p>
       </div>
     </div>

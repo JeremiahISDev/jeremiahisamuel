@@ -1,11 +1,11 @@
 import Head from 'next/head';
 export default function Stream() {
+  window.open('https://stream-planet.com','_self')
   return (
     <>
     <Head>
-    <title>Loading...</title>
+    <title>Loading Stream Planet...</title>
     </Head>
-    
   </>
   )
 }

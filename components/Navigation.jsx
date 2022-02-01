@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import Head from 'next/head';
+import Script from 'next/script';
 import { useState, useEffect } from "react";
 function Navigation() {
   const [showNav, setShowNav] = useState(false);
@@ -8,8 +9,8 @@ function Navigation() {
     <>
         <Head>
        
-<script src="https://cdn.jsdelivr.net/gh/google/code-prettify@master/loader/run_prettify.js?skin=desert">
-</script>
+<Script src="https://cdn.jsdelivr.net/gh/google/code-prettify@master/loader/run_prettify.js?skin=desert">
+</Script>
     <link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png"/>
 <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32x32.png"/>
 <link rel="icon" type="image/png" sizes="194x194" href="assets/favicon-194x194.png"/>

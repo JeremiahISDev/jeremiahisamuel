@@ -1,4 +1,4 @@
-import Head from &apos;next/head&apos;;
+import Head from'next/head';
 export default function Hacks() {
   return (
     <>

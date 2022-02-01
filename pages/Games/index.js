@@ -56,6 +56,14 @@ export default function Games() {
         </div><div className="pt-2">Rolling Sky</div>
         </div>
         </Link>
+
+        <Link href="Games/ThereIsNoGame"><div className="cursor-pointer w-fit"><div className="w-fit rounded-[2.5rem] hover:drop-shadow-[0_35px_35px_rgba(0,0,0,0.25)]">
+          <img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/95cbccd215b174ddee376b6eb425975a.png"
+            alt="There Is No Game" className="rounded-lg w-40 h-40 p-4" />
+
+        </div><div className="pt-2">There Is No Game</div>
+        </div>
+        </Link>
       </div>
     </>
   )

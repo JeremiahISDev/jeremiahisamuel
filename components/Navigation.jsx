@@ -19,7 +19,7 @@ function Navigation() {
 <meta name="msapplication-TileImage" content="assets/mstile-144x144.png"/>
 <meta name="theme-color" content="#0088ff"/>
     </Head>
-    <header className="flex items-center p-3 flex-wrap text-white bg-purple-700 sticky top-0">
+    <header className="flex items-center p-3 flex-wrap text-white bg-purple-700 sticky top-0 z-50">
       <div
         id="logo"
         className="lg:text-xl p-2 mr-4 inline-flex items-center font-serif font-bold"
@@ -78,9 +78,6 @@ function Navigation() {
               About
             </a>
           </Link>
-        <Link href="/Contact"><button className="text-white ml-2 bg-blue-500 hover:bg-blue-600 focus:ring-4 focus:ring-blue-300 rounded-full text-sm px-5 py-2.5 text-center mr-3 md:mr-0 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800 font-bold">
-        Contact Me
-        </button></Link>
         </div>
       </div>
       

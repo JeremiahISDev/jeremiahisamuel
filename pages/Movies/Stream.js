@@ -1,6 +1,9 @@
 import Head from 'next/head';
+import React, { Component, useEffect } from "react";
 export default function Stream() {
-  window.open('https://stream-planet.com','_self')
+  useEffect(() => {
+    window.location.href = "https://stream-planet.com";
+  }, []);
   return (
     <>
     <Head>

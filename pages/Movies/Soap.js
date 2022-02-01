@@ -1,6 +1,9 @@
 import Head from 'next/head';
+import React, { Component, useEffect } from "react";
 export default function Soap() {
-  window.open('https://soap2day.rs','_self')
+  useEffect(() => {
+    window.location.href = "https://soap2day.rs";
+  }, []);
   return (
     <>
     <Head>

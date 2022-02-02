@@ -12,7 +12,7 @@ export default function BeatThat() {
       <div className="px-6 py-4">
         <div className="font-bold text-xl mb-2">Acura Beat That</div>
         <p className="text-white text-base">
-          “Beat That” is the first car racing game where visuals from each individual level match the styles that were prevalent in games from that specific car's era. As the game progresses, so do the years featured in the graphic treatments and music.
+          “Beat That” is the first car racing game where visuals from each individual level match the styles that were prevalent in games from that specific car&apos;s era. As the game progresses, so do the years featured in the graphic treatments and music.
         </p>
       </div>
     </div>

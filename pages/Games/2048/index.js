@@ -12,7 +12,7 @@ export default function Game2048() {
       <div className="px-6 py-4">
         <div className="font-bold text-xl mb-2">2048</div>
         <p className="text-white text-base">
-         2048 is a popular single-player game for Web and mobile. It's a type of “sliding block puzzle”
+         2048 is a popular single-player game for Web and mobile. It&apos;s a type of “sliding block puzzle”
         </p>
       </div>
     </div>

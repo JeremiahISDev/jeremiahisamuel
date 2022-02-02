@@ -64,6 +64,39 @@ export default function Games() {
         </div><div className="pt-2">There Is No Game</div>
         </div>
         </Link>
+
+        <Link href="Games/ShootR"><div className="cursor-pointer w-fit"><div className="w-fit rounded-[2.5rem] hover:drop-shadow-[0_35px_35px_rgba(0,0,0,0.25)]">
+          <img src="https://shootr.azurewebsites.net/Images/favicon.ico"
+            alt="ShootR" className="rounded-lg w-40 h-40" />
+
+        </div><div className="pt-2">ShootR</div>
+        </div>
+        </Link>
+
+        <Link href="Games/2048"><div className="cursor-pointer w-fit"><div className="w-fit rounded-[2.5rem] hover:drop-shadow-[0_35px_35px_rgba(0,0,0,0.25)]">
+          <img src="https://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-2048-icon.png"
+            alt="2048" className="rounded-lg w-40 h-40" />
+
+        </div><div className="pt-2">2048</div>
+        </div>
+        </Link>
+
+        <Link href="Games/CrossCode"><div className="cursor-pointer w-fit"><div className="w-fit rounded-[2.5rem] hover:drop-shadow-[0_35px_35px_rgba(0,0,0,0.25)]">
+          <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/677af80a-4f37-4a8c-8228-1dc57a31cf6f/dcnfqz6-3627e0d4-5a9e-4245-8b17-4804b8450947.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY3N2FmODBhLTRmMzctNGE4Yy04MjI4LTFkYzU3YTMxY2Y2ZlwvZGNuZnF6Ni0zNjI3ZTBkNC01YTllLTQyNDUtOGIxNy00ODA0Yjg0NTA5NDcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.t4hW_ubp0OTgtTHia70aDaeC1rEc6IngE4t_QOBguOU"
+            alt="CrossCode" className="rounded-full w-40 h-40" />
+
+        </div><div className="pt-2">CrossCode</div>
+        </div>
+        </Link>
+
+        <Link href="Games/BeatThat"><div className="cursor-pointer w-fit"><div className="w-fit rounded-[2.5rem] hover:drop-shadow-[0_35px_35px_rgba(0,0,0,0.25)]">
+          <img src="https://freepngimg.com/download/acura/2-2-acura-png-file.png"
+            alt="Acura Beat That" className="rounded-lg w-40 h-40" />
+
+        </div><div className="pt-2">Acura Beat That</div>
+        </div>
+        </Link>
+
       </div>
     </>
   )

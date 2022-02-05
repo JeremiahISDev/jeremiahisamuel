@@ -1,12 +1,14 @@
 import Head from 'next/head';
-export default function Game() {
+import React, { Component, useEffect } from "react";
+export default function BeatThat() {
+  useEffect(() => {
+    window.location.href = "https://shootr.azurewebsites.net/";
+  }, []);
   return (
     <>
-      <Head>
-        <title>ShootR | JIS Media Pro</title>
-      </Head>
-      
-      <iframe width="100%" height="100%" frameBorder="0" src="https://shootr.azurewebsites.net/" scrolling="yes" id="frame" seamless="seamless" className="h-screen m-0 p-0 absolute"></iframe>
-    </>
+    <Head>
+    <title>Loading ShootR...</title>
+    </Head>
+  </>
   )
 }

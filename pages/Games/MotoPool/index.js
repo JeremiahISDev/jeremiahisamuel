@@ -12,7 +12,7 @@ export default function MotoPool() {
       <div className="px-6 py-4">
         <div className="font-bold text-xl mb-2">Moto X3M Pool Party</div>
         <p className="text-white text-base">
-          Moto X3M 5 Pool Party is a motorbike racing game with "summer" as main theme. This 5th part in the Moto X3M series has 22 new challenging levels. Race your motorbike through pools and beaches and discover all the new obstacles in this sequel in the Moto X3M series.
+          Moto X3M 5 Pool Party is a motorbike racing game with summer as main theme. This 5th part in the Moto X3M series has 22 new challenging levels. Race your motorbike through pools and beaches and discover all the new obstacles in this sequel in the Moto X3M series.
         </p>
       </div>
     </div>

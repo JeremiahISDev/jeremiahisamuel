@@ -97,6 +97,14 @@ export default function Games() {
         </div>
         </Link>
 
+        <Link href="Games/MotoPool"><div className="cursor-pointer w-fit"><div className="w-fit rounded-[2.5rem] hover:drop-shadow-[0_35px_35px_rgba(0,0,0,0.25)]">
+          <img src="https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/0235b530eec4f17ad60137f6b245a988.jpeg"
+            alt="Moto X3M Pool Party" className="rounded-lg w-40 h-40" />
+
+        </div><div className="pt-2">Moto X3M Pool Party</div>
+        </div>
+        </Link>
+
       </div>
     </>
   )

@@ -6,7 +6,7 @@ import "prismjs/themes/prism-tomorrow.css";
 export default function Portfolio({ Component, pageProps }) {
   return (
     <>
-<Script type="text/javascript">
+<Script type="text/javascript" id="SATS">
 var sc_project=12714597; 
 var sc_invisible=1; 
 var sc_security="f7f53d2c"; 

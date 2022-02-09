@@ -9,7 +9,7 @@ export default function Portfolio({ Component, pageProps }) {
 <Script type="text/javascript" id="SATS">
 var sc_project=12714597; 
 var sc_invisible=1; 
-var sc_security="f7f53d2c"; 
+var sc_security=&quot;f7f53d2c&quot;; 
 </Script>
 <Script id="STATS" type="text/javascript"
 src="https://www.statcounter.com/counter/counter.js" async></Script>

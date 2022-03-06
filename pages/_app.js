@@ -6,20 +6,22 @@ import "prismjs/themes/prism-tomorrow.css";
 export default function Portfolio({ Component, pageProps }) {
   return (
     <>
-<Script type="text/javascript" id="SATS">
-var sc_project=12714597; 
-var sc_invisible=1; 
-var sc_security=&quot;f7f53d2c&quot;; 
-</Script>
-<Script id="STATS" type="text/javascript"
-src="https://www.statcounter.com/counter/counter.js" async></Script>
-<Script async id="GTAG" src="https://www.googletagmanager.com/gtag/js?id=G-HN74T3ZW6W"></Script>
-    <Script id="luckyOrange" async defer src="https://tools.luckyorange.com/core/lo.js?site-id=605447fe">
-        </Script>
-<Script id="inspectlet" src="../components/inspectlet.js">
-</Script>
-<Script id="inspectlet" src="../components/GTAG.js">
-</Script>
+<Script
+  id="crisp-widget"
+  strategy="afterInteractive"
+  dangerouslySetInnerHTML={{
+    __html: `
+      window.$crisp=[];
+      window.CRISP_WEBSITE_ID="b7bb8868-8124-4604-bb59-f3d9f8c6659e";
+      (function(){
+        const d = document;
+        const s = d.createElement("script");
+        s.src = "https://client.crisp.chat/l.js";
+        s.async = 1;
+        d.getElementsByTagName("head")[0].appendChild(s);
+      })();`,
+  }}
+/>
       <Head>
         
        <meta name="google-site-verification" content="GvQClaWf6xn3H-Pf6ytkMkBpf8J1jjTNb_sEMVpHyKE" />
